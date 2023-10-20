@@ -39,7 +39,7 @@
   },
   "dependencies": {
     "base32.js": "0.0.1",
-    "crypto":"1.0.1"
+    "crypto": "^1.0.1"
   },
   "devDependencies": {
     "chai": "^3.4.1",
